@@ -7,4 +7,4 @@
 - ⚡ Fun fact: ...
 
 
-![e](https://github.com/user-attachments/assets/75ef8e39-627a-4016-834b-9d8849106b20
+![e](https://github.com/user-attachments/assets/75ef8e39-627a-4016-834b-9d8849106b20)
