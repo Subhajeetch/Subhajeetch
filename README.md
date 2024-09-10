@@ -9,7 +9,7 @@
   <h3>Skills & Technologies</h3>
   <div>
     <p align="center">
-      <a href="https://skillicons.dev">
+      <a href="https://github.com/Subhajeetch">
         <img src="https://skillicons.dev/icons?i=js,html,css,git,github,replit,ai" />
       </a>
     </p>
