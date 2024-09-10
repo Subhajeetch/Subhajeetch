@@ -1,6 +1,6 @@
 <div align="center">
   <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi,+I'm+Subhajeetch;+A+Web+Developer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Kanit&size=35&center=true&vCenter=true&weight=600&color=D6F700FF&width=500&height=70&duration=4000&lines=Hi,+I'm+Subhajeetch;+A+Web+Developer;" />
 </h3>
   <h5>I know where to find the answer that you are looking for.</h5>
   <br>
