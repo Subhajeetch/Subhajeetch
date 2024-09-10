@@ -4,7 +4,7 @@
 </h3>
   <h5>I know where to find the answer that you are looking for.</h5>
   <br>
-  <img src="https://github.com/user-attachments/assets/75ef8e39-627a-4016-834b-9d8849106b20">
+  <img height="248px" src="https://github.com/user-attachments/assets/75ef8e39-627a-4016-834b-9d8849106b20">
   <br>
   <h3>Skills & Technologies</h3>
   <div>
