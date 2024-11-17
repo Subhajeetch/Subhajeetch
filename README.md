@@ -10,7 +10,7 @@
   <div>
     <p align="center">
       <a href="https://github.com/Subhajeetch">
-        <img src="https://skillicons.dev/icons?i=react,nodejs,express,js,html,css,tailwind,git" />
+        <img src="https://skillicons.dev/icons?i=react,nodejs,express,js,html,css,tailwind,git,firebase" />
       </a>
     </p>
   </div>
